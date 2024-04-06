@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DragonBlockFR<br>🌱 I’m currently learning React &  Javascript<br>👨‍💻 All of my projects are available at https://liam.nowli.fr<br>📫 How to reach me liam.hedingaston@outlook.fr<br>⚡ Fun fact I can breathe fire and i know how to make cocktails
+🔭 I’m currently working on DragonBlockFR<br>🌱 I’m currently learning React &  Javascript<br>👨‍💻 All of my projects are available at https://l-hg.fr<br>📫 How to reach me liam.hedingaston@outlook.fr<br>⚡ Fun fact I can breathe fire and i know how to make cocktails
 
 
 ## 🌐 Socials:
