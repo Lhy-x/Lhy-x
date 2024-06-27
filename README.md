@@ -1,5 +1,7 @@
+
+![Banner](https://cdn.discordapp.com/attachments/1169280299256000644/1255867641256742954/3.png?ex=667eb162&is=667d5fe2&hm=9ea06345d379264d7b1efab431a4f51b2b53c26daa35d2da9dd19d5b09253817&)
 # 💫 About Me:
-🔭 I’m currently working on DragonBlockFR<br>🌱 I’m currently learning React &  Javascript<br>👨‍💻 All of my projects are available at https://l-hg.fr<br>📫 How to reach me liam.hedingaston@outlook.fr<br>⚡ Fun fact I can breathe fire and i know how to make cocktails
+🔭 I’m currently working on Nowli<br>🌱 I’m currently learning React &  Javascript<br>👨‍💻 All of my projects are available at https://l-hg.fr<br>📫 How to reach me liam.hedingaston@outlook.fr<br>⚡ Fun fact I can breathe fire and i know how to make cocktails
 
 
 ## 🌐 Socials:
