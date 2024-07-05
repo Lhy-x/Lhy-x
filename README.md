@@ -1,5 +1,5 @@
 
-![Banner](https://cdn.discordapp.com/attachments/1169280299256000644/1255867641256742954/3.png?ex=667eb162&is=667d5fe2&hm=9ea06345d379264d7b1efab431a4f51b2b53c26daa35d2da9dd19d5b09253817&)
+![Banner]((https://cdn.discordapp.com/attachments/1169280299256000644/1258812260676272191/3_1.png?ex=668967c6&is=66881646&hm=fab34e62469629fe57d94c12b10207a20cb7530255b9e59a7bc90a0163279fe1&)
 # 💫 About Me:
 🔭 I’m currently working on Nowli<br>🌱 I’m currently learning React &  Javascript<br>👨‍💻 All of my projects are available at https://l-hg.fr<br>📫 How to reach me liam.hedingaston@outlook.fr<br>⚡ Fun fact I can breathe fire and i know how to make cocktails
 
